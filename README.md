@@ -1,4 +1,4 @@
-# SQL Dimensional Data Modeling
+# SQL Actors Dimensional Data Modeling
 
 This repository demonstrates a comprehensive approach to solving a data engineering problem focused on dimensional modeling. The project showcases SQL skills, database design, and data manipulation to enable efficient analysis of the actor_films dataset.
 

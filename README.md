@@ -72,15 +72,3 @@ The solution leveraged:
 ### 4. Validation and Optimization
    - Validated data integrity and correctness.
    - Optimized queries for performance.
-
----
-
-## Repository Structure
-
-```
-├── 1_create_types.sql        # Define custom data types
-├── 2_create_tables.sql       # Create table structures
-├── 3_populate_actors.sql     # Populate `actors` table
-├── 4_populate_actors_history.sql # Populate `actors_history_scd` table
-├── 5_incremental_query.sql   # Incremental updates for `actors_history_scd`
-└── README.md                 # Project documentation
